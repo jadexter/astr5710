@@ -12,3 +12,5 @@ and then stay up to date by doing
 git pull
 
 when there are new materials/assignments
+
+The first class problem set is in astr5710_PS1.ipynb, formatted as a Jupyter notebook. Please let me know if you have problems accessing or using it!
