@@ -1,7 +1,7 @@
 # astr5710
-ASTR 5710 Spring 2023
+ASTR 5710 Spring 2025
 
-This repository is for problem sets and other notes associated with ASTR 5710 at CU Boulder for the Spring 2023 semester
+This repository is for problem sets and other notes associated with ASTR 5710 at CU Boulder for the Spring 2025 semester
 
 The easiest way to access materials is to clone the repository
 
